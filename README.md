@@ -26,4 +26,40 @@ For each competency:
 2. Implement a focused project.
 3. Write up key insights and next steps.
 
-See [roadmap.md](roadmap.md) for my current plan and progress.
+ML-AI-Finance-Applications/
+│
+├── README.md
+├── roadmap.md
+├── progress_log.md
+├── core_competencies/
+│   ├── 01_data_sources_market_structure/
+│   │   ├── notes.md
+│   │   ├── mini_project/
+│   │   │   ├── notebook.ipynb
+│   │   │   └── results.md
+│   ├── 02_financial_math_stats/
+│   │   ├── notes.md
+│   │   ├── mini_project/
+│   │   │   ├── notebook.ipynb
+│   │   │   └── results.md
+│   └── ... (and so on up to 09)
+│
+├── capstone_projects/
+│   ├── 1_macro_forecasting/
+│   │   ├── overview.md
+│   │   ├── code/
+│   │   └── report.md
+│   ├── 2_adaptive_trader/
+│   │   ├── overview.md
+│   │   ├── code/
+│   │   └── report.md
+│
+├── resources/
+│   ├── reading_list.md
+│   ├── links.md
+│   └── papers/
+│
+└── templates/
+    ├── notes_template.md
+    ├── project_template.md
+    └── log_template.md
